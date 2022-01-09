@@ -1,0 +1,240 @@
+[
+    {
+        "model": "shop_final.book",
+        "pk": 1,
+        "fields": {
+            "title": "НИ СЫ. Будь уверен в своих силах и не позволяй сомнениям мешать тебе двигаться вперед",
+            "year": 2000,
+            "pages": 172,
+            "isbn13": "978-0-8422-8117-1",
+            "rating": 7.5,
+            "price": 701.75,
+            "author": [
+                "Anne Calderon",
+                "David Vargas"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 2,
+        "fields": {
+            "title": "Убить пересмешника",
+            "year": 2012,
+            "pages": 179,
+            "isbn13": "978-0-7491-1659-0",
+            "rating": 1.1,
+            "price": 38.13,
+            "author": [
+                "Ian Gonzalez",
+                "Jordan Daniels"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 3,
+        "fields": {
+            "title": "Гарри Поттер и философский камень",
+            "year": 2000,
+            "pages": 113,
+            "isbn13": "978-0-7061-1263-4",
+            "rating": 4.2,
+            "price": 950.86,
+            "author": [
+                "Justin Kent",
+                "William Scott"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 4,
+        "fields": {
+            "title": "Гордость и предубеждение",
+            "year": 2006,
+            "pages": 161,
+            "isbn13": "978-0-435-41177-0",
+            "rating": 6.7,
+            "price": 1025.78,
+            "author": [
+                "Ryan Hess",
+                "Jason Gallegos"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 5,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 2006,
+            "pages": 114,
+            "isbn13": "978-0-13-171368-0",
+            "rating": 3.4,
+            "price": 820.95,
+            "author": [
+                "Timothy Koch"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 6,
+        "fields": {
+            "title": "Дневник Анны Франк",
+            "year": 2012,
+            "pages": 152,
+            "isbn13": "978-0-19-915607-8",
+            "rating": 3.1,
+            "price": 501.6,
+            "author": [
+                "Brent Anderson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 7,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 2000,
+            "pages": 102,
+            "isbn13": "978-0-14-529146-4",
+            "rating": 2.3,
+            "price": 1292.8,
+            "author": [
+                "Daniel Mayo",
+                "Linda Smith"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 8,
+        "fields": {
+            "title": "Убить пересмешника",
+            "year": 2012,
+            "pages": 132,
+            "isbn13": "978-0-227-86661-0",
+            "rating": 6.0,
+            "price": 489.21,
+            "author": [
+                "Donna Watson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 9,
+        "fields": {
+            "title": "Дневник Анны Франк",
+            "year": 2018,
+            "pages": 136,
+            "isbn13": "978-1-286-58422-4",
+            "rating": 6.5,
+            "price": 1340.68,
+            "author": [
+                "Nicole Cook",
+                "Suzanne Marks",
+                "Madison Williams"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 10,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 2006,
+            "pages": 163,
+            "isbn13": "978-1-76692-203-4",
+            "rating": 5.6,
+            "price": 959.7,
+            "author": [
+                "Mary Johnson"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 11,
+        "fields": {
+            "title": "Гарри Поттер и философский камень",
+            "year": 2006,
+            "pages": 183,
+            "isbn13": "978-1-64875-533-0",
+            "rating": 1.8,
+            "price": 1178.2,
+            "author": [
+                "Taylor Dunn",
+                "Daniel Novak",
+                "Edward Little"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 12,
+        "fields": {
+            "title": "Гарри Поттер и философский камень",
+            "year": 2012,
+            "pages": 144,
+            "isbn13": "978-1-4190-9922-9",
+            "rating": 10.0,
+            "price": 900.59,
+            "author": [
+                "Jasmine Hernandez"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 13,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 2006,
+            "pages": 182,
+            "isbn13": "978-1-877304-77-4",
+            "rating": 4.9,
+            "price": 1062.83,
+            "author": [
+                "Jonathan Rose",
+                "Daniel Baldwin"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 14,
+        "fields": {
+            "title": "Дневник Анны Франк",
+            "year": 2018,
+            "pages": 134,
+            "isbn13": "978-1-240-99230-0",
+            "rating": 4.3,
+            "price": 312.63,
+            "author": [
+                "Marissa Perry",
+                "Stephen Hendrix",
+                "Amanda Villanueva"
+            ]
+        }
+    },
+    {
+        "model": "shop_final.book",
+        "pk": 15,
+        "fields": {
+            "title": "Властелин колец",
+            "year": 2000,
+            "pages": 155,
+            "isbn13": "978-1-4497-2937-0",
+            "rating": 9.4,
+            "price": 917.42,
+            "author": [
+                "Kristy Hall",
+                "Daniel Hart"
+            ]
+        }
+    }
+]
